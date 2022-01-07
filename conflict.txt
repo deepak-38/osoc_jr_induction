@@ -1,0 +1,9 @@
+created a file in main branch with name city 
+
+create a same file in osoc branch
+
+merge the branch then got the conflicting error 
+
+Resolving the conflict by changing the content of the file.
+
+Commiting the changes
